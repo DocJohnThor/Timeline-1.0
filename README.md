@@ -5,4 +5,8 @@ It's a very basic code in html and css
 
 Fell free to take the code baseline and tune it in new branch V2.0, V3.0, etc..
 
-I think I’ve finished with the baseline. The next step, give a graphic and modern style to the timeline. To be continued.. 
+I think I’ve finished with the baseline. The next step, give a graphic and modern style to the timeline. 
+Add transition and animation. 
+
+
+To be continued.. 
